@@ -12,7 +12,7 @@ Model components are used to generate text using language models. These componen
 
 This component creates a ChatOpenAI model instance using the AIML API.
 
-For more information, see [AIML documentation](https://docs.aimlapi.com/).
+For more information, see [AIML documentation](https://docs.aimlapi.com/?utm_source=langflow&utm_medium=docs&utm_campaign=langflow).
 
 ### Parameters
 
